@@ -1,4 +1,4 @@
-# graph-api
+# terminal-connect
 
 Bloomberg Terminal Connect Automation Solutions is for the creation of collaborative workflows between third party systems and the Bloomberg Terminal.
 
